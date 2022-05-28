@@ -1,5 +1,3 @@
-import os
-from flask import Flask
 import asyncio
 
 from pywebio import start_server
